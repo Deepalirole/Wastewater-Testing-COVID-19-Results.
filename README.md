@@ -41,7 +41,7 @@ Interactive Charts: Line chart, donut chart, bar chart
 
 Distribution Analysis by Collection Area
 
-![image alt](
+![image alt]("https://github.com/Deepalirole/Wastewater-Testing-COVID-19-Results./blob/1b48d6fe99226ec35461a165eda666aec652d6a6/Screenshot%202025-08-12%20222936.png")
 
 
 🔁 Step-by-Step Process
